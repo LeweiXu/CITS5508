@@ -1,0 +1,29 @@
+# adapted from https://github.com/ageron/handson-ml3
+name: cits5508
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ffmpeg=6.1
+  - graphviz
+  - python-graphviz
+  - ipython=8.17
+  - joblib=1.3
+  - jupyterlab=4.0
+  - matplotlib=3.8
+  - nbdime=3.2
+  - nltk=3.8
+  - numexpr=2.8
+  - numpy=1.26
+  - pandas=2.1
+  - pillow=10.1
+  - pip
+  - py-xgboost=1.7
+  - python=3.11
+  - scikit-learn=1.6
+  - scipy=1.11
+  - tqdm=4.66
+  - wheel
+  - widgetsnbextension=4.0
+  - pip:
+    - urlextract~=1.8.0
