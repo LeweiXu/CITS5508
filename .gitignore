@@ -208,3 +208,10 @@ __marimo__/
 
 *.csv
 *.data
+
+textbook/
+
+handson-ml3/
+
+CLAUDE.md
+AGENTS.md
